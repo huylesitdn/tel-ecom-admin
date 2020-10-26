@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import styled from "styled-components";
 import Link from "next/link";
 // components
-import { PageLayout } from "../../../../../../src/components/views";
+import PageLayout from "../../../../../../src/components/views/PageLayout";
 import { TEPageFooter } from "../../../../../../src/components/atoms";
 // icons
 import { LeftOutlined } from "@ant-design/icons";

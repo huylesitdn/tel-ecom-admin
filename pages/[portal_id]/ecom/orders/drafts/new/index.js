@@ -5,7 +5,7 @@ import { Button, Layout } from "antd";
 import Router from "next/router";
 import { connect, useSelector } from "react-redux";
 // components
-import { PageLayout } from "../../../../../../src/components/views";
+import PageLayout from "../../../../../../src/components/views/PageLayout";
 import { NewForm } from "../../../../../../src/components/orders";
 // icons
 import { LeftOutlined } from "@ant-design/icons";

@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import { PageLayout } from "../../../../src/components/views";
+import PageLayout from "../../../../src/components/views/PageLayout";
 const axios = require("axios");
 import { connect } from "react-redux";
 import styled from "styled-components";

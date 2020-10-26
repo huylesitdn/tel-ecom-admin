@@ -1,5 +1,5 @@
 import React from 'react';
-import { PageLayout } from '../../src/components/views';
+import PageLayout from '../../src/components/views/PageLayout';
 
 const Analytics = () => {
   return <PageLayout></PageLayout>;

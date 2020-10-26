@@ -4,7 +4,7 @@ import Link from "next/link";
 import Router from "next/router";
 // components
 import PageHeader from "../../src/components/PageHeader";
-import { PageLayout } from "../../src/components/views";
+import PageLayout from "../../src/components/views/PageLayout";
 import ShippingLabelsContent from "../../src/components/orders/ShippingLabels";
 // icons
 import { LeftOutlined, PrinterOutlined } from "@ant-design/icons";

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { PageLayout } from "../../src/components/views";
+import PageLayout from "../../src/components/views/PageLayout";
 import styled from "styled-components";
 import { ViewPosts } from "../../src/components/posts";
 import { connect } from "react-redux";

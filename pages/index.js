@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { PageLayout } from "../src/components/views";
+import PageLayout from "../src/components/views/PageLayout";
 import { LeftContent, RightContent } from "../src/components/home";
 import { getUserWithID } from "../src/redux/actions/users";
 import { connect } from "react-redux";

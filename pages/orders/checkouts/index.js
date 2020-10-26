@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { PageLayout } from "../../../src/components/views";
+import PageLayout from "../../../src/components/views/PageLayout";
 import { TEPageFooter, MDExport } from "../../../src/components/atoms";
 import PageHeader from "../../../src/components/PageHeader";
 import styled from "styled-components";

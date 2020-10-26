@@ -2,7 +2,7 @@ import React,{useState ,useEffect} from "react";
 import styled from "styled-components";
 import Link from "next/link";
 // components
-import { PageLayout } from "../../../../src/components/views";
+import PageLayout from "../../../../src/components/views/PageLayout";
 // icons
 import {
   EyeOutlined,

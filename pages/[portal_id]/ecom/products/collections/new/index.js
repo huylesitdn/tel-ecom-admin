@@ -4,7 +4,7 @@ import styled from "styled-components";
 import { Button, Layout } from "antd";
 
 // components
-import { PageLayout } from "../../../../../../src/components/views";
+import PageLayout from "../../../../../../src/components/views/PageLayout";
 import { CollectionNewForm } from "../../../../../../src/components/products";
 
 // icons

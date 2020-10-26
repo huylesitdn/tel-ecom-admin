@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { PageLayout } from "../../../../../src/components/views";
+import PageLayout from "../../../../../src/components/views/PageLayout";
 import { TEPageFooter } from "../../../../../src/components/atoms";
 import styled from "styled-components";
 import { Layout, Empty, Button, Row, Col } from "antd";
